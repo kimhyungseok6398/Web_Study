@@ -1,4 +1,4 @@
-package exam03;
+package exam07_17_12_Lombok_기본어노테이션_2;
 
 import java.time.LocalDateTime;
 

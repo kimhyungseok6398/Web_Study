@@ -1,6 +1,4 @@
-package exam02;
-
-import lombok.extern.java.Log;
+package exam07_17_12_Lombok_기본어노테이션_1;
 
 import java.time.LocalDateTime;
 
