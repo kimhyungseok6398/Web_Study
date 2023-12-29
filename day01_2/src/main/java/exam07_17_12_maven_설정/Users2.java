@@ -1,4 +1,4 @@
-package exam01;
+package exam07_17_12_maven_설정;
 
 import lombok.Data;
 import lombok.NonNull;

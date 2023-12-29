@@ -1,4 +1,4 @@
-package exam01;
+package exam07_17_12_maven_설정;
 
 import java.time.LocalDateTime;
 
