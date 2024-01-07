@@ -37,6 +37,12 @@ public class JoinServlet extends HttpServlet {  // 이로인해 서블릿 사용
         out.print("<input type='checkbox' name='hobby' value='취미3'>취미3<br>");
         out.print("<button type='submit'>가입하기</button>");
         out.print("<form>");
+
+        System.out.println("doGet!!");
+        // 개발 할 경우 웹 페이지가 100이상이 넘어가기 때문에
+        // 위 방식을 개발을 하기엔 버겁다
+        // 그렇기 때문에 JSP
+        // JSP : 번역기술 ( 서블릿 코드를 번역해주는 것)
     }
 
     /**
